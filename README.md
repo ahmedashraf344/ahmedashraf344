@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ashraff344" target="blank"><img src="https://img.shields.io/twitter/follow/ashraff344?logo=twitter&style=for-the-badge" alt="ashraff344" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **React , Markting**
+- 🌱 I’m currently learning **React , Markting, And improvment my Flutter Skills**
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/ahmedashrafdev34](https://gitlab.com/ahmedashrafdev34)
 
