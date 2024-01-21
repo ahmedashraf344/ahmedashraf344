@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React , Markting, And improvment my Flutter Skills**
 
-- 👨‍💻 All of my projects are available at [https://gitlab.com/ahmedashrafdev34](https://gitlab.com/ahmedashrafdev34)
+- 👨‍💻 Some of my projects samples are available at [https://gitlab.com/ahmedashrafdev34](https://gitlab.com/ahmedashrafdev34)
 
 - 💬 Ask me about **Flutter ,Dart**
 
