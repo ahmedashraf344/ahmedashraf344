@@ -114,3 +114,16 @@ The AlMasry Pharmacy app is designed to provide a seamless and efficient shoppin
         <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
     </a>
 </p>
+
+#### Ecom As a Service
+
+This guide provides an overview of the configuration options available in our e-commerce app, which allows for a customizable user experience. Through the admin, users can alter layouts, fonts, colors, and API settings to suit their preferences
+
+<p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.crocoit.ecomservice" target="_blank">
+        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
+    </a>
+    <a href="https://apps.apple.com/us/app/ecom-as-a-service/id6476941917" target="_blank">
+        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+</p>
