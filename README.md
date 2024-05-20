@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=bitbucket,css,discord,github,gitlab,gradle,graphql,html,php,py,stackoverflow,swift,twitter,vscode,idea,instagram,js,kotlin,laravel,linkedin,notion,npm,bootstrap,aws,dart,figma,firebase,flutter,git,java,js,kotlin,postman,react,redux,xd&perline=11" />
+<img src="https://skillicons.dev/icons?i=bitbucket,css,discord,github,gitlab,gradle,graphql,html,php,py,stackoverflow,swift,twitter,vscode,idea,instagram,js,kotlin,laravel,linkedin,notion,npm,bootstrap,aws,dart,figma,firebase,flutter,git,java,js,kotlin,postman,react,redux,xd&perline=20" />
 </a>
 </p>
 
