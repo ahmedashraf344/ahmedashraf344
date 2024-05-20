@@ -68,12 +68,10 @@
 - linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
 - instagram : https://www.instagram.com/abdullahmanss
 - youtube channel : https://www.youtube.com/AbdullahMansourAli -->
-<hr>
 
 <h2> Samples from my projects </h2>
 
 
-<hr>
 
 ### Jameel
 Jameel (Salon at Home and Beauty Services) helps you discover the best beauty professionals near your home who will come at your doorstep to pamper you. Just download our app, pick a beauty service, date, time & location to book. A mobile beauty therapist will arrive at a time and place that suits you ready to deliver your chosen treatment using premium products & equipment. Our team of professional beauty therapists are trade-tested and fully vetted, with years of professional experience, so you can sit back and relax knowing you're in the best hands.
