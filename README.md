@@ -71,7 +71,7 @@
 
 - **Email 1:** ahmedashrafdev34@gmail.com
 - **Email 2:** ahmedashrafdev35@gmail.com
-- **Phone 2:** +201121265838
+- **Phone:** +201121265838
 
 <p align="left">
     <a href="https://www.facebook.com/ashef23" target="_blank">
@@ -98,6 +98,19 @@ Sak Real Estate platform specializes in marketing and selling real estate. It ai
         <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
     </a>
     <a href="https://apps.apple.com/us/app/sak-real-estate/id1520310363" target="_blank">
+        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+</p>
+
+#### ALMasry Pharmacy
+
+The AlMasry Pharmacy app is designed to provide a seamless and efficient shopping experience for all your cosmetic and personal care needs. As a mobile developer, you will be creating a user-friendly interface
+
+<p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.almasrypharmacy&hl=ar" target="_blank">
+        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
+    </a>
+    <a href="https://apps.apple.com/us/app/almasry-store/id6483365001" target="_blank">
         <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
     </a>
 </p>
