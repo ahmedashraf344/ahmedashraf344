@@ -80,7 +80,7 @@
         <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/ashhraf" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://instagram.com/ahmed_ashraf34" target="_blank">
         <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -100,6 +100,6 @@ Sak Real Estate platform specializes in marketing and selling real estate. It ai
         <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
     </a>
     <a href="https://apps.apple.com/us/app/sak-real-estate/id1520310363" target="_blank">
-        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-0D96F6.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
     </a>
 </p>
