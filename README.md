@@ -1,6 +1,5 @@
 <h2 align="center"> Hi there, I'm Ahmed Ashraf 👋 </h2>
 
-<img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius: 50%; margin-left: 20px;">
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 ### 🚀 About Me
