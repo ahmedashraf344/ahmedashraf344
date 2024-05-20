@@ -3,6 +3,7 @@
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 ### 🚀 About Me
+
 - **Flutter Cross-application development** - Dart
 - **Familiar with Native iOS Development** - SwiftUI
 - **Familiar with Native Android Development** - Kotlin
@@ -14,6 +15,14 @@
 <hr>
 
 ### 🛠 Languages and Tools:
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma,android,bootstrap,css3,dart,firebase,flutter,html5,java,kotlin,postman,redux,xd&perline=6" />
+</a>
+</p>
+
+
 <p align="left">
     <a href="https://developer.android.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android" width="40" height="40"/>
