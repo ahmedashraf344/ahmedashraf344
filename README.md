@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋, I'm Software Developer</h1>
-<h3 align="center">A Senior mobile developer from Egypt</h3>
+<h2> Hi there, I'm Ahmed Ashraf 👋 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedashraf344&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedashraf344" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/ashraff344" target="blank"><img src="https://img.shields.io/twitter/follow/ashraff344?logo=twitter&style=for-the-badge" alt="ashraff344" /></a> </p>
-
-- 🔭 I’m currently working on **Flutter Projects**
-
-- 🌱 I’m currently learning **React , Markting, And improvment my Flutter Skills**
-
-- 👨‍💻 Some of my projects samples are available at [https://gitlab.com/ahmedashrafdev34](https://gitlab.com/ahmedashrafdev34)
-
-- 💬 Ask me about **Flutter ,Dart**
+ <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
+ 
+- Flutter Cross-application development - Dart 
+- Familiar with Native iOS Development - SwiftUI
+- Familiar with Native Android Development - Kotlin
+- Familiar with React & Web Development  
+- Familiar with PHP Laravel & Backend Development
+- Familiar with digital marketing & social media design
+- More than 45 apps on both stores 
+<hr>
 
 
 <h3 align="left">Languages and Tools:</h3>
