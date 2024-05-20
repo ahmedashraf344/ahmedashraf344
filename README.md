@@ -53,11 +53,11 @@
     <a href="https://www.linkedin.com/in/ashhraf" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://instagram.com/ahmed_ashraf34" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <a href="https://instagram.com/ahmed_ashraf34" target="_blank" style="display: inline-block; background: linear-gradient(45deg, #833ab4, #fd1d1d, #fcb045); padding: 4px 12px; border-radius: 4px; color: white; text-decoration: none; font-family: Arial, sans-serif; font-size: 14px;">
+        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-transparent.svg?style=for-the-badge&logo=instagram&logoColor=white" style="vertical-align: middle;" />
+        Instagram
     </a>
 </p>
-
 
 
 <!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
