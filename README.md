@@ -105,7 +105,7 @@ It was established in Riyadh in 1984 in a small store to market new electrical a
 
 #### Mestores
 
-The Modern Electronics application has been the official distributor of Sony and PlayStation in Saudi Arabia for more than fifty years, providing you with all the special products of Sony and PlayStation and other games and sounds, and it also provides new games and exclusive versions as well. It offers you a unique demo electronic application and amazing features that help raise the level of the customer in particular
+The Mestores application has been the official distributor of Sony and PlayStation in Saudi Arabia for more than fifty years, providing you with all the special products of Sony and PlayStation and other games and sounds, and it also provides new games and exclusive versions as well. It offers you a unique demo electronic application and amazing features that help raise the level of the customer in particular
 
 <p align="left">
     <a href="https://play.google.com/store/apps/details?id=com.IT.MECL" target="_blank">
@@ -118,7 +118,7 @@ The Modern Electronics application has been the official distributor of Sony and
 
 #### eFatorh
 
-The Modern Electronics application has been the official distributor of Sony and PlayStation in Saudi Arabia for more than fifty years, providing you with all the special products of Sony and PlayStation and other games and sounds, and it also provides new games and exclusive versions as well. It offers you a unique demo electronic application and amazing features that help raise the level of the customer in particular
+An accounting program for shops that deal directly with customers, such as supermarkets, pharmacies, clothing and shoe stores, restaurants, and various commercial activities: which facilitates quick and organized sales operations. It greatly allows you to monitor expenses and revenues and extract complete reports.
 
 <p align="left">
     <a href="https://play.google.com/store/apps/details?id=com.hlsoft.efatorh" target="_blank">
