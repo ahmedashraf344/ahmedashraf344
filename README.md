@@ -103,3 +103,28 @@ It was established in Riyadh in 1984 in a small store to market new electrical a
 </p>
 
 
+#### Mestores
+
+The Modern Electronics application has been the official distributor of Sony and PlayStation in Saudi Arabia for more than fifty years, providing you with all the special products of Sony and PlayStation and other games and sounds, and it also provides new games and exclusive versions as well. It offers you a unique demo electronic application and amazing features that help raise the level of the customer in particular
+
+<p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.IT.MECL" target="_blank">
+        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
+    </a>
+    <a href="https://apps.apple.com/eg/app/mestores/id1553586045" target="_blank">
+        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+</p>
+
+#### eFatorh
+
+The Modern Electronics application has been the official distributor of Sony and PlayStation in Saudi Arabia for more than fifty years, providing you with all the special products of Sony and PlayStation and other games and sounds, and it also provides new games and exclusive versions as well. It offers you a unique demo electronic application and amazing features that help raise the level of the customer in particular
+
+<p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.hlsoft.efatorh" target="_blank">
+        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
+    </a>
+    <a href="https://apps.apple.com/us/app/efatorh-%D8%A7%D9%8A-%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9/id1627067636" target="_blank">
+        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+</p>
