@@ -87,3 +87,19 @@ This guide provides an overview of the configuration options available in our e-
         <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
     </a>
 </p>
+
+#### Almanea | المنيع
+
+Hamad Abdullah Al-Munaea Trading Company is the largest technology company and the oldest company in the Kingdom of Saudi Arabia in the field of selling and distributing electrical, household and air conditioning appliances.
+It was established in Riyadh in 1984 in a small store to market new electrical appliances in Haraj Bin Qasim in the city of Riyadh. With the 1990s, sales activity, customer demand, trustworthiness in treatment, products, and marketing inquiries, and with God’s grace, more than thirty branches were opened in Riyadh, Jeddah, Jizan, and Al-Kharj, and work is underway to expand further. In the Saudi market
+
+<p align="left">
+    <a href="https://play.google.com/store/apps/details?id=com.almanea.android&hl=en&gl=US" target="_blank">
+        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
+    </a>
+    <a href="https://apps.apple.com/ly/app/almanea/id6443922140" target="_blank">
+        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
+    </a>
+</p>
+
+
