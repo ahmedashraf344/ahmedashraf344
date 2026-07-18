@@ -1,131 +1,157 @@
-<h2 align="center"> Hi there, I'm Ahmed Ashraf 👋 </h2>
+<div align="center">
 
-<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&random=true&width=435&lines=Hi+there,+I'm+Ahmed+Ashraf+%F0%9F%91%8B;Flutter+Developer;Mobile+App+Expert;45%2B+Apps+Published&duration=2000&reset=true" alt="Typing SVG" />
 
-### 🚀 About Me
+</div>
 
-- **Flutter Cross-application development** - Dart
-- **Familiar with Native iOS Development** - SwiftUI
-- **Familiar with Native Android Development** - Kotlin
-- **Familiar with React & Web Development**
-- **Familiar with PHP Laravel & Backend Development**
-- **Familiar with digital marketing & social media design**
-- **More than 45 apps on both stores**
+---
 
-<hr>
+## 🚀 About Me
 
-### 🛠 Languages and Tools:
+```dart
+class AhmedAshraf {
+  final String role = "Mobile Developer";
+  final List<String> primarySkills = ["Flutter", "Dart"];
+  final List<String> additionalSkills = ["SwiftUI", "Kotlin", "React", "Laravel"];
+  final int publishedApps = 45;
+  final String location = "Egypt 🇪🇬";
+  final bool availableForWork = true;
+}
+```
 
-<p align="center">
+- 🔭 I'm currently working on **cross-platform mobile applications**
+- 🌱 I'm currently learning **advanced Flutter patterns & state management**
+- 💬 Ask me about **Flutter, iOS, Android, or anything mobile**
+- 📫 How to reach me: **ahmedashrafdev34@gmail.com**
+
+---
+
+## 🛠 Languages and Tools
+
+<div align="center">
+
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=bitbucket,css,discord,github,gitlab,gradle,graphql,html,php,py,stackoverflow,swift,twitter,vscode,idea,instagram,js,kotlin,laravel,linkedin,notion,npm,bootstrap,aws,dart,figma,firebase,flutter,git,java,js,kotlin,postman,react,redux,xd&perline=20" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,react,laravel,firebase,git,github,android,apple,figma,postman,vscode&perline=14" />
 </a>
-</p>
 
+</div>
 
+---
 
+## 📱 Featured Projects
 
-<hr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### 📫 Contact Me:
+#### 🏠 SAK Real Estate
+A real estate platform for marketing and selling properties in Saudi Arabia with integrated digital experience.
 
-- **Email 1:** ahmedashrafdev34@gmail.com
-- **Email 2:** ahmedashrafdev35@gmail.com
-- **Phone:** +201121265838
-- **Phone:** +201025693513
+[![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.getsak.sak&hl=en&gl=US)
+[![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/sak-real-estate/id1520310363)
 
-<p align="left">
-    <a href="https://www.facebook.com/ashef23" target="_blank">
-        <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/ashhraf" target="_blank">
-        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/ahmed_ashraf34" target="_blank">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-</p>
+    </td>
+    <td width="50%" valign="top">
 
-<hr>
+#### 💊 ALMasry Pharmacy
+Seamless shopping experience for cosmetics and personal care products.
 
-### 💼 Samples from My Projects
+[![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.almasrypharmacy&hl=ar)
+[![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/almasry-store/id6483365001)
 
-#### SAK Real Estate
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-Sak Real Estate platform specializes in marketing and selling real estate. It aims to change the experience of purchasing real estate in the Kingdom of Saudi Arabia by providing innovative technical and financial solutions that contribute to providing an integrated digital experience for the seller and buyer.
+#### 🛒 Ecom As a Service
+Customizable e-commerce platform with admin dashboard for layouts, fonts, and API settings.
 
-<p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.getsak.sak&hl=en&gl=US" target="_blank">
-        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
-    </a>
-    <a href="https://apps.apple.com/us/app/sak-real-estate/id1520310363" target="_blank">
-        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
-    </a>
-</p>
+[![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.crocoit.ecomservice)
+[![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/ecom-as-a-service/id6476941917)
 
-#### ALMasry Pharmacy
+    </td>
+    <td width="50%" valign="top">
 
-The AlMasry Pharmacy app is designed to provide a seamless and efficient shopping experience for all your cosmetic and personal care needs. As a mobile developer, you will be creating a user-friendly interface
+#### 🏪 Almanea | المنيع
+Saudi Arabia's largest electronics retailer - electrical, household & AC appliances.
 
-<p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.almasrypharmacy&hl=ar" target="_blank">
-        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
-    </a>
-    <a href="https://apps.apple.com/us/app/almasry-store/id6483365001" target="_blank">
-        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
-    </a>
-</p>
+[![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.almanea.android&hl=en&gl=US)
+[![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ly/app/almanea/id6443922140)
 
-#### Ecom As a Service
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-This guide provides an overview of the configuration options available in our e-commerce app, which allows for a customizable user experience. Through the admin, users can alter layouts, fonts, colors, and API settings to suit their preferences
+#### 🎮 Mestores
+Official Sony & PlayStation distributor in Saudi Arabia for 50+ years.
 
-<p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.crocoit.ecomservice" target="_blank">
-        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
-    </a>
-    <a href="https://apps.apple.com/us/app/ecom-as-a-service/id6476941917" target="_blank">
-        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
-    </a>
-</p>
+[![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.IT.MECL)
+[![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/mestores/id1553586045)
 
-#### Almanea | المنيع
+    </td>
+    <td width="50%" valign="top">
 
-Hamad Abdullah Al-Munaea Trading Company is the largest technology company and the oldest company in the Kingdom of Saudi Arabia in the field of selling and distributing electrical, household and air conditioning appliances.
-It was established in Riyadh in 1984 in a small store to market new electrical appliances in Haraj Bin Qasim in the city of Riyadh. With the 1990s, sales activity, customer demand, trustworthiness in treatment, products, and marketing inquiries, and with God’s grace, more than thirty branches were opened in Riyadh, Jeddah, Jizan, and Al-Kharj, and work is underway to expand further. In the Saudi market
+#### 📊 eFatorh
+Accounting solution for shops - sales operations, expense tracking & complete reports.
 
-<p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.almanea.android&hl=en&gl=US" target="_blank">
-        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
-    </a>
-    <a href="https://apps.apple.com/ly/app/almanea/id6443922140" target="_blank">
-        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
-    </a>
-</p>
+[![Google Play](https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.hlsoft.efatorh)
+[![App Store](https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/efatorh-%D8%A7%D9%8A-%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9/id1627067636)
 
+    </td>
+  </tr>
+</table>
 
-#### Mestores
+---
 
-The Mestores application has been the official distributor of Sony and PlayStation in Saudi Arabia for more than fifty years, providing you with all the special products of Sony and PlayStation and other games and sounds, and it also provides new games and exclusive versions as well. It offers you a unique demo electronic application and amazing features that help raise the level of the customer in particular
+## 📊 GitHub Stats
 
-<p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.IT.MECL" target="_blank">
-        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
-    </a>
-    <a href="https://apps.apple.com/eg/app/mestores/id1553586045" target="_blank">
-        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
-    </a>
-</p>
+<div align="center">
 
-#### eFatorh
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedashraf344&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedashraf344&layout=compact&theme=radical&hide_border=true" />
 
-An accounting program for shops that deal directly with customers, such as supermarkets, pharmacies, clothing and shoe stores, restaurants, and various commercial activities: which facilitates quick and organized sales operations. It greatly allows you to monitor expenses and revenues and extract complete reports.
+</div>
 
-<p align="left">
-    <a href="https://play.google.com/store/apps/details?id=com.hlsoft.efatorh" target="_blank">
-        <img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-4285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" />
-    </a>
-    <a href="https://apps.apple.com/us/app/efatorh-%D8%A7%D9%8A-%D9%81%D8%A7%D8%AA%D9%88%D8%B1%D8%A9/id1627067636" target="_blank">
-        <img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20App%20Store-000000.svg?style=for-the-badge&logo=app-store&logoColor=white" />
-    </a>
-</p>
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+[![Arctic Code Vault Contributor](https://raw.githubusercontent.com/ahmedashraf344/ahmedashraf344/main/assets/arctic-badge.png)](https://github.com/ahmedashraf344?achievement=arctic-code-vault-contributor)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ashhraf" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/ashraff344" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/ashef23" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://instagram.com/ahmed_ashraf34" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:ahmedashrafdev34@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedashraf344&color=blueviolet&style=for-the-badge)
+
+</div>
