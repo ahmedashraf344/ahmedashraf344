@@ -1,10 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&random=true&width=600&lines=Welcome+to+my+corner+of+the+internet+%F0%9F%8C%8D;Senior+Software+Engineer+%7C+GOSI+%F0%9F%8F%A5;Building+Apps+That+Matter+%F0%9F%9A%80;AI+%26+LLM+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
-</a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedashraf344&theme=radical&no-frame=true&no-bg=false&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&random=true&width=600&lines=Welcome+to+my+corner+of+the+internet+%F0%9F%8C%8D;Senior+Software+Engineer+%7C+GOSI+%F0%9F%8F%A5;Building+Apps+That+Matter+%F0%9F%9A%80;AI+%26+LLM+Explorer+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
